@@ -1,14 +1,11 @@
 # userManagement
 
-To Run the project please follow the below step 
+## Installation
 
-install NPM using followiing command
-------------------------------------
-npm install
-=====================================
-Run Project
-npm start
-====================================
-start Server 
-
-npm run server
+ `git clone  https://github.com/digambarbhadane/userManagement`
+* `cd userManagment`
+* `npm install`
+* `npm i json-server`
+* `npm start`
+# `npm run server`
+* visit http://localhost:3000/  

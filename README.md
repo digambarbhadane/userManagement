@@ -7,5 +7,6 @@
 * `npm install`
 * `npm i json-server`
 * `npm start`
-# `npm run server`
+* `npm run server`
 * visit http://localhost:3000/  
+* server run on - http://localhost:5000

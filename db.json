@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Digambar",
+      "lastname": "Bhadane",
+      "gender": "male",
+      "dob": "1998-02-12",
+      "college": "udhna academy college",
+      "address": "Surat",
+      "hobbies": [
+        "reading",
+        "writing"
+      ]
+    },
+    {
+      "id": 2,
+      "firstname": "Pankaj",
+      "lastname": "patil",
+      "dob": "1997-02-12",
+      "gender": "male",
+      "college": "udhna academy college",
+      "address": "Surat",
+      "hobbies": [
+        "reading",
+        "writing"
+      ]
+    },
+    {
+      "firstname": "kiran",
+      "lastname": "Mistary",
+      "dob": "1999-02-12",
+      "gender": "male",
+      "college": "Middle Tennessee State University",
+      "address": "surat",
+      "hobbies": "swimming",
+      "id": 3
+    },
+    {
+      "firstname": "ajay",
+      "lastname": "koli",
+      "dob": "2000-02-12",
+      "gender": "male",
+      "college": "Middlesex County College",
+      "address": "surat",
+      "hobbies": "swimming",
+      "id": 4
+    },
+    {
+      "firstname": "nehal",
+      "lastname": "kjahkjh",
+      "dob": "1997-02-12",
+      "gender": "male",
+      "college": "Middlesex University",
+      "address": "surat",
+      "hobbies": "swimming",
+      "id": 5
+    },
+    {
+      "firstname": "kiran",
+      "lastname": "kumar",
+      "dob": "1998-01-04",
+      "gender": "male",
+      "college": "Middle Georgia State College",
+      "address": "surat",
+      "hobbies": [
+        "writing",
+        "reading"
+      ],
+      "isLoaded": false,
+      "id": 7
+    },
+    {
+      "firstname": "kiran",
+      "lastname": "kumar",
+      "dob": "1998-01-04",
+      "gender": "male",
+      "college": "Middle Georgia State College",
+      "address": "surat",
+      "hobbies": [
+        "writing",
+        "reading",
+        "writing"
+      ],
+      "isLoaded": true,
+      "id": 8
+    },
+    {
+      "firstname": "kiran",
+      "lastname": "kumar",
+      "dob": "1998-01-04",
+      "gender": "female",
+      "college": "Middle Georgia State College",
+      "address": "surat",
+      "hobbies": [
+        "writing",
+        "reading",
+        "writing"
+      ],
+      "isLoaded": true,
+      "id": 9
+    },
+    {
+      "firstname": "kiran",
+      "lastname": "Mistary",
+      "dob": "1998-01-04",
+      "gender": "female",
+      "college": "Middle Georgia State College",
+      "address": "surat",
+      "hobbies": [
+        "writing",
+        "reading",
+        "writing"
+      ],
+      "isLoaded": true,
+      "id": 10
+    },
+    {
+      "firstname": "nehal",
+      "lastname": "koli",
+      "dob": "1997-02-12",
+      "gender": "male",
+      "college": "Middle Georgia State College",
+      "address": "surat",
+      "hobbies": [
+        "s",
+        "w",
+        "i",
+        "m",
+        "m",
+        "i",
+        "n",
+        "g",
+        "writing"
+      ],
+      "isLoaded": true,
+      "id": 11
+    }
+  ]
+}
